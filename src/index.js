@@ -32,6 +32,7 @@ $(document).ready(function() {
 // We add parseInt() when we get the value of lengths from both forms. We don't want to have an issue with working with strings instead of numbers.
 // When we append, we've updated the strings to use template literals. This cleans up the code a bit more.
 
+
 // import $ from 'jquery';
 // import 'bootstrap';
 // import 'bootstrap/dist/css/bootstrap.min.css';
